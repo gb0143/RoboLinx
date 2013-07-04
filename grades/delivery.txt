@@ -1,0 +1,21 @@
+Demo
+-------------
+
+Everyone was dressed professionally, were all very articulate.
+
+Talked very technical to Bill, who seemed to be very interested in that.
+
+Worked through everything very well -- no real technical difficulties.
+
+Seemed well prepared for everything that was thrown at you.
+
+Great job!
+
+Administrator Manual
+------------
+
+Mostly looks good -- the installation should have covered actually installing
+your PHP software from the ground up, even if that just includes copying the
+files to where they need to go.  Otherwise good.
+
+Grade: 95/100

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="validate.js">
+</script>
+</head>
+
+<body>
+<form name="loginForm" action="google.com" onsubmit="return validForm();" method="post">
+<span id='badName' style="display:none"><font color= 'red'>Please Enter a Name<br /></font></span>
+First name: <input id = "fname" type="text" name="fname" onchange="validName()">
+<br />
+<span id='badEmail' style="display:none"><font color= 'red'>Invalid Email Address<br /></font></span>
+Email: <input type="text" id = "email" name="email" onchange="validEmail()">
+<input type="submit" value="Submit">
+</form>
+</body>
+
+</html>
+
